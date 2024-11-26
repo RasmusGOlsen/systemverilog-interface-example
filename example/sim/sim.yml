@@ -1,0 +1,10 @@
+#%SimplAPI=1.0
+
+top: testbench test
+
+dependencies:
+  - ../hdl/hdl.yml
+
+files:
+  - testbench.sv
+  - test.py

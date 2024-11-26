@@ -1,0 +1,6 @@
+#%SimplAPI=1.0
+
+files:
+  - bus.sv
+  - master.sv
+  - slave.sv

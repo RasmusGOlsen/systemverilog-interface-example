@@ -1,0 +1,10 @@
+#%SimplAPI=1.0
+
+part: xc7z007sclg225-2
+top: top
+
+dependencies:
+  - ../hdl/hdl.yml
+
+files:
+  - top.sv
